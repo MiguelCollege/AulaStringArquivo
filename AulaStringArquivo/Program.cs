@@ -2,4 +2,8 @@
 
 ManipulaString manipulaString = new ManipulaString();
 
-manipulaString.CarregaTexto();
+//manipulaString.CarregaTexto();
+
+ManipulacaoArquivo manipulacaoArquivo = new ManipulacaoArquivo();
+
+manipulacaoArquivo.ValidaArquivo();
