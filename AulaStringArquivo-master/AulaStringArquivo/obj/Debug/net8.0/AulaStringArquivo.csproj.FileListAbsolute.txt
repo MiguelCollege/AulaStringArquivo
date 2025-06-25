@@ -1,0 +1,4 @@
+c:\Users\migue\Downloads\AulaStringArquivo-master\AulaStringArquivo\obj\Debug\net8.0\AulaStringArquivo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\migue\Downloads\AulaStringArquivo-master\AulaStringArquivo\obj\Debug\net8.0\AulaStringArquivo.AssemblyInfoInputs.cache
+c:\Users\migue\Downloads\AulaStringArquivo-master\AulaStringArquivo\obj\Debug\net8.0\AulaStringArquivo.AssemblyInfo.cs
+c:\Users\migue\Downloads\AulaStringArquivo-master\AulaStringArquivo\obj\Debug\net8.0\AulaStringArquivo.csproj.CoreCompileInputs.cache
